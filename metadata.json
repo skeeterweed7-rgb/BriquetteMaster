@@ -1,0 +1,5 @@
+{
+  "name": "BriquetteMaster",
+  "description": "A landscaping calculator tool to estimate briquette requirements based on acreage, featuring AI-powered landscaping advice.",
+  "requestFramePermissions": []
+}
